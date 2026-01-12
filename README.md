@@ -42,7 +42,7 @@ I have built a versatile skillset across both enterprise-grade backends and mode
 Currently in my final semester. Beyond the classroom, I am actively pursuing knowledge in **Cybersecurity**, focusing on secure coding practices and network defense to better understand the security landscape of modern applications.
 
 ### Projects
-* **Somaliland Currency Exchange API:** A live, open-source financial utility with Java Spring Boot and PostgreSQL.
+* **Somaliland Currency Exchange API:** A live, open-source financial utility with Java Spring Boot and PostgreSQL. https://github.com/israad-visuals/somaliland-fx-api
 * **Dhawr Platform:** A multi-service delivery startup currently in development using Flutter and Laravel.
 * **JazakPro app** https://play.google.com/store/apps/details?id=com.jazak.pro
 
