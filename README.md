@@ -7,7 +7,7 @@
     <a href="mailto:raadvisuals@gmail.com">Contact</a>
   </p>
 </div>
-### 🛠️ Core Technologies
+🛠️ Core Technologies
 
 **Mobile & Frontend**
 <p>
