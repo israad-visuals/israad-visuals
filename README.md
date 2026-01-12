@@ -7,7 +7,8 @@
     <a href="mailto:raadvisuals@gmail.com">Contact</a>
   </p>
 </div>
-🛠️ Core Technologies
+
+### 🛠️ Core Technologies
 
 **Mobile & Frontend**
 <p>
@@ -17,43 +18,45 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Backend & Systems**
+**Backend, Data & Security**
+**Backend, Data & Security**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <br />
 
 ### About Me
-I am a Software Engineer and student at **George Brown College** with a deep drive for building digital infrastructure. My journey has taken me from Kenya and Somalia to Toronto, giving me a unique global perspective on solving problems. I specialize in **Full-Stack Web** and **Mobile Development**, creating high-performance applications that bridge gaps in financial technology and digital services.
+A software engineering graduate with a lifelong fascination for technology, demonstrated through building full-stack web applications and exploring emerging technologies. Through personal projects and continuous learning, I'm developing practical solutions that solve real-world problems.
 
 ### Technical Foundation
-I have built a versatile skillset across both enterprise-grade backends and modern mobile frameworks. My expertise spans **Java (Spring Boot)** and **C# (ASP.NET)** for robust server-side logic, while using **Flutter** and **React Native** to craft seamless cross-platform mobile experiences. I am comfortable navigating the entire stack, from Linux servers to pixel-perfect UI.
+I have built a versatile skillset across both enterprise-grade backends and modern mobile frameworks. My expertise spans **Java (Spring Boot)** and **C# (ASP.NET)** for robust server-side logic, while using **Flutter** and **React Native** to craft seamless cross-platform mobile experiences. I am also proficient in database management—from **PostgreSQL** to **MySQL**—ensuring that data is not just stored, but optimized and secured.
 
 ### Education Path
-Currently in my final semester of the **Computer Programming (T186)** program at George Brown College (Dean's List / High Performance). My academic focus has been on distributed systems, database management, and object-oriented architecture, which I immediately apply to real-world deployments.
+Currently in my final semester. Beyond the classroom, I am actively pursuing knowledge in **Cybersecurity**, focusing on secure coding practices and network defense to better understand the security landscape of modern applications.
 
-### Project Experience
-I believe in "Deploying, not just Coding." My recent work includes:
-* **Somaliland Currency Exchange API:** A live, open-source financial utility deployed on a Linux VPS using Java Spring Boot and PostgreSQL.
+### Projects
+* **Somaliland Currency Exchange API:** A live, open-source financial utility with Java Spring Boot and PostgreSQL.
 * **Dhawr Platform:** A multi-service delivery startup currently in development using Flutter and Laravel.
 * **Mobile Apps:** Experience building native and cross-platform solutions using Kotlin and React Native.
+* **JazakPro app** https://play.google.com/store/apps/details?id=com.jazak.pro
 
 ### Current Focus
-I am currently scaling the **Somaliland Exchange API** into a full developer platform and preparing for my graduation in April 2026. I am actively seeking impactful opportunities in **Software Engineering** where I can leverage my hybrid web/mobile background.
+I am currently scaling the **Somaliland Exchange API** into a full developer platform and preparing for my graduation in April 2026. I am actively seeking impactful opportunities in **Software Engineering** where I can leverage my hybrid engineering and security mindset.
 
 ### My Philosophy
-I believe that technology is the greatest equalizer. My goal is not just to write code, but to build tools that empower communities and businesses. Whether it's debugging a complex Java microservice or refining a Flutter animation, I approach every task with precision, curiosity, and a relentless drive to ship products that matter.
+I believe that technology is the greatest equalizer. My goal is not just to write code, but to build tools that empower communities and businesses. Whether it's debugging a complex Java microservice, hardening a Linux server, or refining a Flutter animation, I approach every task with precision, curiosity, and a relentless drive to ship products that matter.
 
 ---
-
-
 
 <br />
 
 <div align="center">
-  <p><i>"Building the digital future, one commit at a time."</i></p>
+  <p><i>"Building the digital future, securely."</i></p>
 </div>
