@@ -44,7 +44,6 @@ Currently in my final semester. Beyond the classroom, I am actively pursuing kno
 ### Projects
 * **Somaliland Currency Exchange API:** A live, open-source financial utility with Java Spring Boot and PostgreSQL.
 * **Dhawr Platform:** A multi-service delivery startup currently in development using Flutter and Laravel.
-* **Mobile Apps:** Experience building native and cross-platform solutions using Kotlin and React Native.
 * **JazakPro app** https://play.google.com/store/apps/details?id=com.jazak.pro
 
 ### Current Focus
