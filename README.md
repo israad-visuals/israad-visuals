@@ -67,6 +67,13 @@ Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vite
 
 ### Selected Projects
 
+<a href="https://github.com/israad-visuals/restsim-azure-infrastructure">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/projects/azure-cloud-migration-compact.svg" />
+    <img src="assets/projects/azure-cloud-migration.svg" width="1200" alt="Azure cloud migration: Load Balancer, VM Scale Sets and private access, with two Terraform environments, seven architecture diagrams and a 52-line cost model." />
+  </picture>
+</a>
+
 #### [Azure Cloud Migration Architecture — eSIM & Telecommunications Solutions Provider](https://github.com/israad-visuals/restsim-azure-infrastructure)
 
 *Microsoft Azure, Terraform, Infrastructure as Code (IaC), Linux, Azure Networking, Azure Monitor*
@@ -78,6 +85,13 @@ Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vite
 - Produced 7 architecture diagrams and a 52-line infrastructure cost model, documenting resource sizing, availability, security, CI/CD and GitHub OIDC release-design decisions.
 
 [View the full project, architecture decisions and documentation](https://github.com/israad-visuals/restsim-azure-infrastructure) · [Architecture diagrams](https://github.com/israad-visuals/restsim-azure-infrastructure/tree/main/docs/architecture) · [Cost review](https://github.com/israad-visuals/restsim-azure-infrastructure/blob/main/docs/costs/README.md)
+
+<a href="https://github.com/israad-visuals/azure-erp-modernization">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/projects/erp-modernization-compact.svg" />
+    <img src="assets/projects/erp-modernization.svg" width="1200" alt="Azure ERP modernization: ERP web app, Service Bus and an independent .NET notification worker, with four Terraform roots, seven architecture views and two release paths." />
+  </picture>
+</a>
 
 #### [Azure Cloud ERP Modernization — Wholesale Distributor](https://github.com/israad-visuals/azure-erp-modernization)
 
@@ -127,3 +141,4 @@ Travel eSIM platform · [Website](https://restsim.com/) · [Google Play](https:/
   <p><strong>Toronto, Ontario · Cloud Infrastructure &amp; Engineering</strong></p>
   <p><a href="https://www.linkedin.com/in/ismail-abdi-8bbaa0176/">Let’s connect on LinkedIn</a></p>
 </div>
+
