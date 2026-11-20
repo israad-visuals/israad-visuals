@@ -79,9 +79,18 @@ Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vite
 
 [View the full project, architecture decisions and documentation](https://github.com/israad-visuals/restsim-azure-infrastructure) · [Architecture diagrams](https://github.com/israad-visuals/restsim-azure-infrastructure/tree/main/docs/architecture) · [Cost review](https://github.com/israad-visuals/restsim-azure-infrastructure/blob/main/docs/costs/README.md)
 
-#### [Currency Exchange API](https://github.com/israad-visuals/somaliland-fx-api)
+#### [Azure Cloud ERP Modernization — Wholesale Distributor](https://github.com/israad-visuals/azure-erp-modernization)
 
-Integrated external exchange-rate data through a Java/Spring Boot REST API, using USD as an intermediate currency and storing local exchange-rate history in PostgreSQL via Spring Data JPA.
+*Microsoft Azure, Terraform, Azure Container Apps, Azure Database for MySQL, Azure Service Bus, .NET, Azure Monitor*
+
+Azure modernization of an enterprise resource planning (ERP) platform for Cedar Row Office Supply, a fictional wholesale business. The platform connects invoicing, inventory and accounting, with a separate .NET notification microservice.
+
+- Developed four Terraform roots for state storage, the shared Azure platform, the ERP application and the notification worker.
+- Designed private MySQL and storage connectivity using Virtual Networks, Private DNS and storage private endpoints; scoped workload permissions with managed identities, RBAC and Key Vault.
+- Separated invoice processing from notifications in an event-driven design using Azure Service Bus, a transactional outbox, stable event IDs, retries and a dead-letter queue.
+- Documented Azure Monitor and Log Analytics monitoring, independent ERP/worker releases and rollbacks, and MySQL point-in-time recovery checks for invoice, stock and accounting records.
+
+[View the full project and business context](https://github.com/israad-visuals/azure-erp-modernization) · [Terraform](https://github.com/israad-visuals/azure-erp-modernization/tree/main/terraform) · [Seven architecture diagrams](https://github.com/israad-visuals/azure-erp-modernization/tree/main/docs/architecture) · [Release and recovery design](https://github.com/israad-visuals/azure-erp-modernization/blob/main/docs/architecture/README.md#release-and-recovery-design)
 
 ### Professional Experience
 
