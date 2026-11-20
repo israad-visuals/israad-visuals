@@ -76,8 +76,8 @@ Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vite
 
 <a href="https://github.com/israad-visuals/restsim-azure-infrastructure">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/projects/azure-cloud-migration-compact.svg" />
-    <img src="assets/projects/azure-cloud-migration.svg" width="1200" alt="Azure cloud migration: Load Balancer, VM Scale Sets and private access, with two Terraform environments, seven architecture diagrams and a 52-line cost model." />
+    <source media="(max-width: 600px)" srcset="assets/projects/azure-cloud-migration-strip-compact.svg" />
+    <img src="assets/projects/azure-cloud-migration-strip.svg" width="1200" alt="Azure cloud migration" />
   </picture>
 </a>
 
@@ -95,8 +95,8 @@ Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vite
 
 <a href="https://github.com/israad-visuals/azure-erp-modernization">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/projects/erp-modernization-compact.svg" />
-    <img src="assets/projects/erp-modernization.svg" width="1200" alt="Azure ERP modernization: ERP web app, Service Bus and an independent .NET notification worker, with four Terraform roots, seven architecture views and two release paths." />
+    <source media="(max-width: 600px)" srcset="assets/projects/erp-modernization-strip-compact.svg" />
+    <img src="assets/projects/erp-modernization-strip.svg" width="1200" alt="Azure ERP modernization" />
   </picture>
 </a>
 
