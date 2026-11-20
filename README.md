@@ -65,7 +65,14 @@ Virtual Machines · Storage Accounts · Virtual Networks · NSGs · Microsoft En
 
 Azure CLI · PowerShell · Python · Shell scripting · CI/CD validation · Vitest · Playwright · JUnit · Gitleaks · Agile · SDLC · Jira · GitHub Projects · Issue and bug tracking
 
-### Selected Projects
+<a id="selected-projects"></a>
+
+<h2>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/projects/selected-projects-compact.svg" />
+    <img src="assets/projects/selected-projects.svg" width="1200" alt="Selected Projects" />
+  </picture>
+</h2>
 
 <a href="https://github.com/israad-visuals/restsim-azure-infrastructure">
   <picture>
